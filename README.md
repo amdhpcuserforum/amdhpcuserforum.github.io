@@ -1,5 +1,5 @@
 
-<img src="images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="500px" />
+<img src="images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="700px" />
 
 ## Welcome to AMD HPC User Forum!
 
