@@ -3,6 +3,8 @@
 
 # Welcome to AMD HPC User Forum!
 
+The AMD HPC User Forum is a community of customers and users of AMD powered HPC systems.  The AMD HPC User Forum is open to all AMD customers with an active AMD NDA.  Special presentations may be hosted allowing Forum members to extend invitations to their users.  This group is led by its Members and supported by AMD.
+
 ## Join the Forum:
 https://bit.ly/amd-userforum-join
 
