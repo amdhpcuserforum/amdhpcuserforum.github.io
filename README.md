@@ -1,8 +1,7 @@
 <img src="images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="700px" />
 
 
-
-| [HOME](README.md) | [ORGANIZATION](organization.md) | [AGENDA](agenda.md)  | [EVENTS](events/readme.md) | [CONTACT](contact.md) |
+| [HOME](https://amdhpcuserforum.github.io/README.md) | [ORGANIZATION](https://amdhpcuserforum.github.io/organization.md) | [AGENDA](https://amdhpcuserforum.github.io/agenda.md)  | [EVENTS](https://amdhpcuserforum.github.io/events/readme.md) | [CONTACT](https://amdhpcuserforum.github.io/contact.md) |
 
 
 # Welcome to AMD HPC User Forum!
