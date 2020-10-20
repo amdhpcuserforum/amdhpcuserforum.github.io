@@ -1,11 +1,10 @@
 <img src="images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="700px" />
 
-| [HOME](README.md) | [ORGANIZATION](organization.md) | [AGENDA](agenda.md)  | [EVENTS](events/readme.md) | [CONTACT](contact.md) |
-| :-----: | :-----: | :-----: | :-----: | :-----: |
+
+| [HOME](https://amdhpcuserforum.github.io/README.md) | [ORGANIZATION](https://amdhpcuserforum.github.io/organization.md) | [AGENDA](https://amdhpcuserforum.github.io/agenda.md)  | [EVENTS](https://amdhpcuserforum.github.io/events/readme.md) | [CONTACT](https://amdhpcuserforum.github.io/contact.md) |
 
  
-# AMD HPC User Forum Kick Off Meeting
-## Organization
+# AMD HPC User Forum Organization
  
 
 ### Forum Leadership (Acting)
@@ -23,7 +22,9 @@
 * Stanford University
 * Texas Tech University
  
-### Advisory Group Members
+
+### Planning Committee Members
+
 * Matt Allen, Indiana University
 * Jeremy Fischer, Indiana University
 * Collin Gayde, Indiana University
@@ -54,6 +55,7 @@
  
 
 ### Inaugural Meeting Planning Committee
+
 * Derek Bouius, AMD
 * Christine Fronczak, AMD
 * Ralph Gonzalez, AMD
