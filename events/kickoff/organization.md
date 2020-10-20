@@ -5,9 +5,12 @@
 
  
 # AMD HPC User Forum Kick Off Meeting
+
+| [Kickoff Mtg Home](https://amdhpcuserforum.github.io/events/kickoff) | [Agenda](https://amdhpcuserforum.github.io/events/kickoff/agenda) | [Event Organization](https://amdhpcuserforum.github.io/events/kickoff/organization)  | [Customer Experiences](https://amdhpcuserforum.github.io/events/kickoff/custexp)  |
+
+
 ## Organization
  
-
 ### Forum Leadership (Acting)
 
 * Acting President: Mary Thomas, SDSC
