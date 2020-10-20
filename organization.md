@@ -5,7 +5,7 @@
 
  
 # AMD HPC User Forum Kick Off Meeting:
-## Organization
+# Organization
  
 
 ## Forum Leadership (Acting)
