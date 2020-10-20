@@ -1,6 +1,13 @@
 
 <img src="images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="700px" />
-| ----------- | ----------- |
+
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+| ----------- | ----------- |----------- |----------- |----------- |
 | HOME      | ORGANIZATION | AGENDA  | CUSTOMER EXPERIENCES | CONTACT |
 | ----------- | ----------- |----------- |----------- |----------- |
 
