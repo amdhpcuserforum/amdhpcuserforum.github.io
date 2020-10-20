@@ -3,6 +3,13 @@
 
 | [HOME](https://amdhpcuserforum.github.io/README.md) | [ORGANIZATION](https://amdhpcuserforum.github.io/organization.md) | [AGENDA](https://amdhpcuserforum.github.io/agenda.md)  | [EVENTS](https://amdhpcuserforum.github.io/events/readme.md) | [CONTACT](https://amdhpcuserforum.github.io/contact.md) |
 
+<table>
+  <tr>
+    <th>var</th>
+    <th>let</th>
+    <th>const</th>
+  </tr>
+</table>
 
 # Welcome to AMD HPC User Forum!
 
