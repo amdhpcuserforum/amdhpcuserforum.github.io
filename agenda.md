@@ -6,7 +6,7 @@
 
 _Meeting connection details and agenda have been emailed to all AMD NDA approved attendees._
 
-### Day 1: Tuesday, September 15, 2020**
+### Day 1: Tuesday, September 15, 2020
 _PDT in North America_
 * 6:40 am - All join for instructions
 * 7:00 am – 11:30am Meeting
@@ -25,7 +25,7 @@ _PDT in North America_
 
 ### Day 3: Thursday, September 17, 2020
 _PDT in North America_
-* 6:40 am - All join for instructions
-* 7:00 am – 12:15pm Meeting
-   * 7:00 am: Presentations and Special Sessions
-   * 11:15 am: Member Business Wrap-up
+6:40 am - All join for instructions
+7:00 am – 12:15pm Meeting
+* 7:00 am: Presentations and Special Sessions
+* 11:15 am: Member Business Wrap-up
