@@ -5,10 +5,12 @@
 
 <table>
   <tr>
-    <th>var</th>
-    <th>let</th>
-    <th>const</th>
+    <td>var</td><td>let</td>
   </tr>
+ <tr> 
+   <td> HOME </td>
+   <td> ORGANIZATION </td>
+</tr>
 </table>
 
 # Welcome to AMD HPC User Forum!
