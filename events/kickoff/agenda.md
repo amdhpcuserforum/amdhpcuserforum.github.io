@@ -6,6 +6,9 @@
 
 # AMD HPC User Forum Kick Off Meeting
 
+| [Kickoff Mtg Home](https://amdhpcuserforum.github.io/events/kickoff) | [Agenda](https://amdhpcuserforum.github.io/events/kickoff/agenda) | [Event Organization](https://amdhpcuserforum.github.io/events/kickoff/organization)  | [Customer Experiences](https://amdhpcuserforum.github.io/events/kickoff/custexp)  |
+
+
 ## AGENDA
 
 _Meeting connection details and agenda have been emailed to all AMD NDA approved attendees._
