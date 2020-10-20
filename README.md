@@ -3,15 +3,6 @@
 
 | [HOME](https://amdhpcuserforum.github.io/README.md) | [ORGANIZATION](https://amdhpcuserforum.github.io/organization.md) | [AGENDA](https://amdhpcuserforum.github.io/agenda.md)  | [EVENTS](https://amdhpcuserforum.github.io/events/readme.md) | [CONTACT](https://amdhpcuserforum.github.io/contact.md) |
 
-<table>
-  <tr>
-    <td>var</td><td>let</td>
-  </tr>
- <tr> 
-   <td> <a href="https://amdhpcuserforum.github.io/README.md">HOME</a> </td>
-   <td> <a href="https://amdhpcuserforum.github.io/organization.md">ORGANIZATION</a> </td>
-</tr>
-</table>
 
 # Welcome to AMD HPC User Forum!
 
