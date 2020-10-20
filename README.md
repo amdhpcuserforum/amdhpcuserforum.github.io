@@ -8,8 +8,8 @@
     <td>var</td><td>let</td>
   </tr>
  <tr> 
-   <td> HOME </td>
-   <td> ORGANIZATION </td>
+   <td> <a href="https://amdhpcuserforum.github.io/README.md">HOME</a> </td>
+   <td> <a href="https://amdhpcuserforum.github.io/organization.md">ORGANIZATION</a> </td>
 </tr>
 </table>
 
