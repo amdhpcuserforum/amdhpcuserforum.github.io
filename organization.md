@@ -4,11 +4,11 @@
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 
  
-# AMD HPC User Forum Kick Off Meeting:
-# Organization
+# AMD HPC User Forum Kick Off Meeting
+## Organization
  
 
-## Forum Leadership (Acting)
+### Forum Leadership (Acting)
 
 * Acting President: Mary Thomas, SDSC
 * AMD Representative:  Christine Fronczak, AMD
@@ -22,7 +22,8 @@
 * Stanford University
 * Texas Tech University
  
-## Advisory Group Members
+
+### Advisory Group Members
 
 * Matt Allen, Indiana University
 * Jeremy Fischer, Indiana University
@@ -53,7 +54,7 @@
 * Alan Sill , Texas Tech University
  
 
-## Inaugural Meeting Planning Committee
+### Inaugural Meeting Planning Committee
 
 * Derek Bouius, AMD
 * Christine Fronczak, AMD
