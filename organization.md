@@ -1,3 +1,5 @@
+<img src="images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="700px" />
+
 # AMD HPC User Forum Kick Off Meeting
  
 
