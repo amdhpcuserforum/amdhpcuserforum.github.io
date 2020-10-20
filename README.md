@@ -15,11 +15,12 @@ https://bit.ly/amd-userforum-join
 The Forum was started in early 2020, and currently has an advisory group and acting board members. For more information, see: https://amdhpcuserforum.github.io/organization.
 
 ## Events:
+[AMD HPC Forum Kickoff Meeting, September 15-17, 2020](https://amdhpcuserforum.github.io/events/kickoff)
 The Forum's inaugural 3-day event ocurred on September 15th-17th, where the AMD customer community gathered to put the plans in place for the Forum. The agenda included special presentations like tuning and optimization of AMD powered HPC clusters along with presentations from current users.
 
-The agenda can be found here: https://amdhpcuserforum.github.io/events/kickoff/agenda.md
+The agenda can be found here: https://amdhpcuserforum.github.io/events/kickoff/agenda
 
-More information about upcoming events can be found here:  https://amdhpcuserforum.github.io/events/events.md
+More information about upcoming Forum events can be found here:  https://amdhpcuserforum.github.io/events/events
 
 ## For more  information: 
 Contact Mary Thomas: mpthomas@ucsd.edu
