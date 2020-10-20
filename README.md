@@ -1,6 +1,6 @@
 <img src="images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="700px" />
 
-| [HOME](README.md) | [ORGANIZATION](organization.md) | [AGENDA](agenda.md)  | [CUSTOMER EXPERIENCES](custexp.md) | [CONTACT](contact.md) |
+| [HOME](README.md) | [ORGANIZATION](organization.md) | [AGENDA](agenda.md)  | [EVENTS](events/events.md) | [CONTACT](contact.md) |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 
 # Welcome to AMD HPC User Forum!
@@ -16,7 +16,9 @@ The Forum was started in early 2020, and currently has an advisory group and act
 ## Events:
 The Forum's inaugural 3-day event ocurred on September 15th-17th, where the AMD customer community gathered to put the plans in place for the Forum. The agenda included special presentations like tuning and optimization of AMD powered HPC clusters along with presentations from current users.
 
-The agenda can be found here: https://amdhpcuserforum.github.io/agenda.md
+The agenda can be found here: https://amdhpcuserforum.github.io/events/kickoff/agenda.md
+
+More information about upcoming events can be found here:  https://amdhpcuserforum.github.io/events/events.md
 
 ## For more  information: 
 Contact Mary Thomas: mpthomas@ucsd.edu
