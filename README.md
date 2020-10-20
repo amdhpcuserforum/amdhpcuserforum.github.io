@@ -1,10 +1,12 @@
 <img src="images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="700px" />
+a
 
 
 | [HOME](README.md) | [ORGANIZATION](organization.md) | [AGENDA](agenda.md)  | [EVENTS](events/readme.md) | [CONTACT](contact.md) |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 
 
+x
 # Welcome to AMD HPC User Forum!
 
 The AMD HPC User Community is pleased to announce the creation of a new HPC User Group.  The AMD HPC User Forum is a community of customers and users of AMD powered HPC systems.  The AMD HPC User Forum is open to all AMD customers with an active AMD NDA.  Special events and meetings may be hosted, allowing Forum members to extend invitations to their users.  This group is led by its Members.
