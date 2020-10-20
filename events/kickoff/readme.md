@@ -1,7 +1,8 @@
-<img src="images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="700px" />
+<img src="../../images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="700px" />
 
-| [HOME](README.md) | [ORGANIZATION](organization.md) | [AGENDA](agenda.md)  | [EVENTS](events/events.md) | [CONTACT](contact.md) |
-| :-----: | :-----: | :-----: | :-----: | :-----: |
+
+| [HOME](https://amdhpcuserforum.github.io) | [ORGANIZATION](https://amdhpcuserforum.github.io/organization) | [EVENTS](https://amdhpcuserforum.github.io/events) | [CONTACT](https://amdhpcuserforum.github.io/contact) |
+
 
 # AMD HPC User Forum Kickoff Meeting
 
