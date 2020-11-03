@@ -7,7 +7,7 @@
 # AMD HPC User Forum: Events
 
 ## Upcoming Events:
-|November 19, 2020 |  8:00am - 9:00am (PDT) | Live at SC20! AMD HPC User Forum Networking Meeting.| [More Info:](https://na.eventscloud.com/website/19100/) |
+| November 19, 2020 |  8:00am - 9:00am (PDT) | Live at SC20! AMD HPC User Forum Networking Meeting.| [More Info:](https://na.eventscloud.com/website/19100/) |
 | :---- | :---- | :---- | :---- |
 | December 11, 2020 | 7-10am PST | AMD HPC User Forum Member Sync | Registration coming soon. |
 
