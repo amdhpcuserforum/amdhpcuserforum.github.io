@@ -8,33 +8,14 @@
 
 ## Subsribe to our mailing lists:
 
-| ----- | ----- |
+| **Mailing List** |  **Link** |
+| :----- | :----- |
 | General Forum Announcements (all members) | [Subscribe](https://mailman.ucsd.edu/mailman/listinfo/amdhpcuserforum-l) |
-| AMD Forum Advisory Committee | [Subscribe]() |
-| AMD Forum Governing Committee | [Subscribe](amdhpcuserforum-gov-l@mailman.ucsd.edu) |
-| AMD Forum Communications Committee | [Subscribe](amdhpcuserforum-comms-l@mailman.ucsd.edu) |
-| AMD Forum Special Interest Groups Committee | [Subscribe]() |
-| AMD Forum Programs and Events Committee | [Subscribe]() |
-| ----- | ----- |
-
-
-
-Group
-Email List
-General Announcements (all members) | amdhpcuserforum-l@mailman.ucsd.edu
-All “planning” committee” members
-amdhpcuserforum-advgrp-l@mailman.ucsd.edu
-Leadership & Governance
-
-Communications
-amdhpcuserforum-comms-l@mailman.ucsd.edu
-Events/Program Planning
-amdhpcuserforum-pgms-l@mailman.ucsd.edu
-Special Interest (SIGs)
-amdhpcuserforum-sig-l@mailman.ucsd.edu
-
-
-
+| AMD Forum Special Interest Groups Committee | [Subscribe](https://mailman.ucsd.edu/mailman/listinfo/amdhpcuserforum-sig-l) |
+| AMD Forum Programs and Events Committee | [Subscribe](https://mailman.ucsd.edu/mailman/listinfo/amdhpcuserforum-pgms-l) |
+| AMD Forum Communications Committee | [Subscribe](https://mailman.ucsd.edu/mailman/listinfo/amdhpcuserforum-comms-l) |
+| AMD Forum Governing Committee | [Subscribe](https://mailman.ucsd.edu/mailman/listinfo/amdhpcuserforum-gov-l) |
+| AMD Forum Advisory Committee | [Subscribe](https://mailman.ucsd.edu/mailman/listinfo/) |
 
 
 ## Contact Us:
