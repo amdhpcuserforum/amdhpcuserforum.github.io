@@ -8,12 +8,13 @@
 
 ## Subsribe to our mailing lists:
 
-| General Forum Announcements (all memebers) | [amdhpcuserforum-l@mailman.ucsd.edu](amdhpcuserforum-l@mailman.ucsd.edu]) |
-| AMD Forum Advisory Committee | []() |
-| AMD Forum Governing Committee | [amdhpcuserforum-gov-l@mailman.ucsd.edu](amdhpcuserforum-gov-l@mailman.ucsd.edu) |
-| AMD Forum Communications Committee | [amdhpcuserforum-comms-l@mailman.ucsd.edu](amdhpcuserforum-comms-l@mailman.ucsd.edu) |
-| AMD Forum Special Interest Groups Committee | []() |
-| AMD Forum Programs and Events Committee | []() |
+| ----- | ----- |
+| General Forum Announcements (all members) | [Subscribe](https://mailman.ucsd.edu/mailman/listinfo/amdhpcuserforum-l) |
+| AMD Forum Advisory Committee | [Subscribe]() |
+| AMD Forum Governing Committee | [Subscribe](amdhpcuserforum-gov-l@mailman.ucsd.edu) |
+| AMD Forum Communications Committee | [Subscribe](amdhpcuserforum-comms-l@mailman.ucsd.edu) |
+| AMD Forum Special Interest Groups Committee | [Subscribe]() |
+| AMD Forum Programs and Events Committee | [Subscribe]() |
 | ----- | ----- |
 
 
