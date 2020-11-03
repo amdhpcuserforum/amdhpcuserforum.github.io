@@ -6,6 +6,17 @@
 
 # AMD HPC User Forum 
 
+## Subsribe to our mailing lists:
+
+| :----- | :----- |
+| General Forum Announcements | [amdhpcuserforum-l@mailman.ucsd.edu](amdhpcuserforum-l@mailman.ucsd.edu]) |
+| ----- | ----- |
+
+
+
+
+
+
 ## Contact Us:
 
 For more information about joining the HPC Forum, contact Mary Thomas: mpthomas@ucsd.edu
