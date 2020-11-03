@@ -16,7 +16,6 @@
 | AMD Forum Communications Committee | [Subscribe](https://mailman.ucsd.edu/mailman/listinfo/amdhpcuserforum-comms-l) |
 | AMD Forum Governing Committee | [Subscribe](https://mailman.ucsd.edu/mailman/listinfo/amdhpcuserforum-gov-l) |
 | AMD Forum Advisory Committee | [Subscribe](https://mailman.ucsd.edu/mailman/listinfo/amdhpcuserforum-advgrp-l) |
-[GO| <a href="https://mailman.ucsd.edu/mailman/listinfo/amdhpcuserforum-advgrp-l" target="_blank">Subscribe to https://mailman.ucsd.edu/mailman/listinfo/amdhpcuserforum-advgrp-l</a> |
 
 
 ## Contact Us:
