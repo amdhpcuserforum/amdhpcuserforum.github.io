@@ -25,8 +25,6 @@ Please check back as program details develop!
 For more information about the new HPC Forum, contact
 _Mary Thomas, mpthomas@ucsd.edu._
 
-### [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSd_l_MDY5Kh_tFJ_KHPzx4eiTKndsNMn5BpiJ8WiWaCUG1mLQ/viewform) to join the Forum!
-
 
 
 
