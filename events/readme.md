@@ -10,7 +10,8 @@
 
 | November 19, 2020 |  8:00am - 9:00am (PDT) | Live at SC20! AMD HPC User Forum Networking Meeting.| [Register Here](https://na.eventscloud.com/website/19100/) |
 | :---- | :---- | :---- | :---- |
-| December 11, 2020 | 7-10am PST | AMD HPC User Forum Member Sync | Registration coming soon. |
+| December 11, 2020 | 7-10am PST | AMD HPC User Forum Member Sync | [Register Here](https://na.eventscloud.com/website/19100/) |
+
 
 ### 2021
 * AMD HPC User Forum Member Sync, March, 2021
