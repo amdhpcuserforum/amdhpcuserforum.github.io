@@ -4,16 +4,16 @@
 | [HOME](https://amdhpcuserforum.github.io) | [ORGANIZATION](https://amdhpcuserforum.github.io/organization) | [EVENTS](https://amdhpcuserforum.github.io/events) | [CONTACT](https://amdhpcuserforum.github.io/contact) |
 
 
-# AMD HPC User Forum Kick Off Meeting
+## AMD HPC User Forum Kickoff Meeting
 
-| [Kickoff Mtg Home](https://amdhpcuserforum.github.io/events/kickoff) | [Agenda](https://amdhpcuserforum.github.io/events/kickoff/agenda) | [Event Organization](https://amdhpcuserforum.github.io/events/kickoff/organization)  | [Customer Experiences](https://amdhpcuserforum.github.io/events/kickoff/custexp)  |
+| [Kickoff Mtg Home](https://amdhpcuserforum.github.io/events/kickoff) | [Agenda](https://amdhpcuserforum.github.io/events/kickoff/agenda) | [Event Organization](https://amdhpcuserforum.github.io/events/kickoff/organization)  |
 
 
-## AGENDA
+### AGENDA
 
 _Meeting connection details and agenda have been emailed to all AMD NDA approved attendees._
 
-### Day 1: Tuesday, September 15, 2020
+#### Day 1: Tuesday, September 15, 2020
 _PDT in North America_
 * 6:40 am - All join for instructions
 * 7:00 am – 11:30am Meeting
@@ -22,7 +22,7 @@ _PDT in North America_
    * 9:00 am: Customer Experiences 
    * 10:20 am: Special Interest Breakout Sessions
    
-### Day 2: Wednesday, September 16, 2020
+#### Day 2: Wednesday, September 16, 2020
 _PDT in North America_
 * 6:40 am - All join for instructions
 * 7:00 am – 11:15am Meeting
@@ -30,7 +30,7 @@ _PDT in North America_
    * 8:40 am: Customer Experiences 
    * 10:00 am: Special Interest Breakout Sessions
 
-### Day 3: Thursday, September 17, 2020
+#### Day 3: Thursday, September 17, 2020
 _PDT in North America_
 * 6:40 am - All join for instructions
 * 7:00 am – 12:15pm Meeting
