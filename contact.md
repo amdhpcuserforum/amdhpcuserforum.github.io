@@ -9,8 +9,10 @@
 The AMD HPC User Forum is a community of customers and users of AMD powered HPC systems.  
 
 ## Join the Forum:
+Members of the Forum are required to have an NDA, or be eligible for and NDA. 
+Fill out the form below and we will contact you to verify or help you get an NDA:
 
-[https://bit.ly/amd-userforum-join](https://bit.ly/amd-userforum-join)
+[Join the Forum](https://na.eventscloud.com/ereg/newreg.php?eventid=585462&language=eng)
 
 ## Contact Us:
 
