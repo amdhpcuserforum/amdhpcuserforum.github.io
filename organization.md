@@ -12,6 +12,5 @@
 * Pittsburgh Supercomputing Center (PSC)
 * Purdue University
 * San Diego Supercomputer Center (SDSC)
-* Stanford University
 * Texas Tech University
  
