@@ -4,9 +4,9 @@
 | [HOME](https://amdhpcuserforum.github.io) | [ORGANIZATION](https://amdhpcuserforum.github.io/organization) | [EVENTS](https://amdhpcuserforum.github.io/events) | [CONTACT](https://amdhpcuserforum.github.io/contact) |
 
 
-# AMD HPC User Forum: Events
+## AMD HPC User Forum: Events
 
-## Upcoming Events:
+### Upcoming Events:
 
 | DATE | TIME | TITLE | REGISTRATION |
 | :---- | :---- | :---- | :---- |
@@ -19,7 +19,8 @@
 * Fall  UF meeting (US Time zone, around SC21)
 
 
-## Past Events:
+### Past Events:
+
 | DATE | EVENT  |
 | :---- | :---- |
 | November 19, 2020 | [AMD HPC User Forum Networking Meeting @ SC20](https://na.eventscloud.com/website/19100/) |
