@@ -6,11 +6,16 @@
 
 ## AMD HPC User Forum: Events
 
-### Upcoming/Planned Events:  xxx
+### Scheduled Events:
 
 | DATE | TIME | TITLE | REGISTRATION |
 | :---- | :---- | :---- | :---- |
 | December 11, 2020 | 7-10am PST | AMD HPC User Forum Member Sync | Registration coming soon |
+
+### Planned Events:
+
+| DATE | TIME | TITLE | REGISTRATION |
+| :---- | :---- | :---- | :---- |
 | Spring, 2021  | TBD | AMD HPC User Forum Event | More info coming soon. |
 | Summer (around ISC21)| EU Time zone | UF General meeting   | More info coming soon. |
 | Fall (around SC21)  | US Time zone |  UF Gemeral meeting   | More info coming soon. |
