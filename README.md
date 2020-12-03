@@ -10,6 +10,7 @@ The AMD HPC User Community is pleased to announce the creation of a new HPC User
 
 
 | Join the Forum: | [Here](https://docs.google.com/forms/d/e/1FAIpQLSd_l_MDY5Kh_tFJ_KHPzx4eiTKndsNMn5BpiJ8WiWaCUG1mLQ/viewform) |
+| :---- | :---- |
 | Organizations: | The Forum was started in early 2020, and currently has an advisory group and acting board members. For more information, see: [Forum Organization](https://amdhpcuserforum.github.io/organization). |
 
 
