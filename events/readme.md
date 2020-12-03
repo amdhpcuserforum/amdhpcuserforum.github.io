@@ -22,7 +22,7 @@
 ## Past Events:
 | DATE | EVENT  |
 | :---- | :---- |
-| November 19, 2020 | [Live at SC20! AMD HPC User Forum Networking Meeting](https://sc20.sdsc.edu/events/live-at-sc20-amd-hpc-user-forum-networking-meeting/) |
+| November 19, 2020 | [AMD HPC User Forum Networking Meeting @ SC20](https://na.eventscloud.com/website/19100/) |
 | AAA | BBB |
 
 
