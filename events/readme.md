@@ -24,7 +24,7 @@
 | DATE | EVENT  |
 | :---- | :---- |
 | November 19, 2020 | [AMD HPC User Forum Networking Meeting @ SC20](https://na.eventscloud.com/website/19100/) |
-| AAA | BBB |
+| September 15-17, 2020 | [AMD HPC User Forum Kickoff Meeting](https://amdhpcuserforum.github.io/events/kickoff) |
 
 
 
