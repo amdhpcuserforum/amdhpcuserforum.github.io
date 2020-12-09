@@ -12,9 +12,9 @@ The [AMD](https://www.amd.com/en) HPC User community is pleased to announce the 
 ### Organization:
 The Forum was started in early 2020, and currently has an advisory group and acting board members. For more information, see: [Forum Organization](https://amdhpcuserforum.github.io/organization).
 
+
 ### Join the Forum: 
 The AMD HPC User Forum is open to all AMD customers with an active AMD NDA. [Join the Forum](https://amdhpcuserforum.github.io/contact)
-Send a request to [join the forum here.](https://docs.google.com/forms/d/e/1FAIpQLSd_l_MDY5Kh_tFJ_KHPzx4eiTKndsNMn5BpiJ8WiWaCUG1mLQ/viewform)
 
 ### Organization:
 The Forum was started in early 2020, and currently has an advisory group and acting board members. For more information, see: [Forum Organization](https://amdhpcuserforum.github.io/organization).
@@ -24,6 +24,6 @@ Information and details about upcoming Forum events can be found in our [Events 
 
 
 ### Contact Us: 
-For more information about the HPC Forum, contact Mary Thomas: mpthomas@ucsd.edu
+For more information about the HPC AMD User Forum contact Mary Thomas at: mpthomas@ucsd.edu
 
 
