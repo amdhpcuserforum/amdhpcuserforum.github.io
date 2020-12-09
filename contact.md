@@ -6,14 +6,13 @@
 
 # AMD HPC User Forum 
 
-The AMD HPC User Forum is a community of customers and users of AMD powered HPC systems.  
+The AMD HPC User Forum is a community of customers and users of AMD powered HPC systems.  Members of the Forum are required to have an active NDA, or be eligible for and/or in the process of obtaining an NDA.   
 
 ## Join the Forum:
-Members of the Forum are required to have an NDA, or be eligible for and NDA. 
-Fill out the form below and we will contact you to verify or help you get an NDA:
+By filling out the form your AMD NDA status will be verified and you will be contacted directly regarding membership or by AMD to discuss an NDA.
 
 [Join the Forum](https://na.eventscloud.com/ereg/newreg.php?eventid=585462&language=eng)
 
 ## Contact Us:
 
-For more information about  the HPC Forum, contact Mary Thomas: mpthomas@ucsd.edu
+For more information about the HPC AMD User Forum, contact Mary Thomas: mpthomas@ucsd.edu
