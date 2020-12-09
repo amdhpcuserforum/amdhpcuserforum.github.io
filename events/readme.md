@@ -20,7 +20,7 @@
 | Summer 2021 UF Meeting (around ISC21)| EU Time zone | UF General meeting   | Details to come |
 | Fall 2021 UF Meeting (around SC21)  | US Time zone |  UF General meeting   | Details to come |
 
-### Past Events:
+### Past Events
 
 | DATE | EVENT  |
 | :---- | :---- |
