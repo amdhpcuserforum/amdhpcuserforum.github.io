@@ -1,12 +1,12 @@
 <img src="images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="700px" />
 
 
-| [HOME](https://amdhpcuserforum.github.io) | [ORGANIZATION](https://amdhpcuserforum.github.io/organization) | [EVENTS](https://amdhpcuserforum.github.io/events) | [CONTACT](https://amdhpcuserforum.github.io/contact) |
+| [HOME](https://amdhpcuserforum.github.io) | [ORGANIZATION](https://amdhpcuserforum.github.io/organization) | [EVENTS](https://amdhpcuserforum.github.io/events) | [JOIN THE FORUM](https://amdhpcuserforum.github.io/contact) |
 
 
 ## Welcome to the AMD HPC User Forum!
 
-The AMD HPC User Community is pleased to announce the creation of a new HPC User Group.  The AMD HPC User Forum is a community of customers and users of AMD powered HPC systems.  .  Special events and meetings may be hosted, allowing Forum members to extend invitations to their users.  This group is led by its Members.
+The [AMD](https://www.amd.com/en) HPC User Community is pleased to announce the creation of a new HPC User Group.  The AMD HPC User Forum is a community of customers and users of AMD powered HPC systems.   Special events and meetings may be hosted, allowing Forum members to extend invitations to their users.  This group is led by its members.
 
 
 ### Organization:
