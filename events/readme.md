@@ -10,8 +10,7 @@
 
 | DATE | TIME | TITLE | REGISTRATION |
 | :---- | :---- | :---- | :---- |
-| December 11, 2020 | 7-10am PST | AMD HPC User Forum Year End Planning Meeting
-| [Registration Info](https://na.eventscloud.com/website/20306/) |
+| December 11, 2020 | 7-10am PST | AMD HPC User Forum Year End Planning Meeting | [Registration Info](https://na.eventscloud.com/website/20306/) |
 
 ### Planned Events
 
