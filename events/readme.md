@@ -6,26 +6,20 @@
 
 ## AMD HPC User Forum: Events
 
-### Scheduled Events:
+### Scheduled Events
 
 | DATE | TIME | TITLE | REGISTRATION |
 | :---- | :---- | :---- | :---- |
 | December 11, 2020 | 7-10am PST | AMD HPC User Forum Year End Planning Meeting
 | [Registration Info](https://na.eventscloud.com/website/20306/) |
 
-### Planned Events:
+### Planned Events
 
 | DATE | TIME | TITLE | REGISTRATION |
 | :---- | :---- | :---- | :---- |
-| Spring, 2021  | TBD | AMD HPC User Forum Event | More info coming soon. |
-| Summer (around ISC21)| EU Time zone | UF General meeting   | More info coming soon. |
-| Fall (around SC21)  | US Time zone |  UF Gemeral meeting   | More info coming soon. |
-
-### 2021
-* AMD HPC User Forum Member Sync, March, 2021
-* Summer UF meeting (EU Time zone, around ISC21)
-* Fall  UF meeting (US Time zone, around SC21)
-
+| Spring 2021 UF Member Sync (March)  | TBD | AMD HPC User Forum Event | Details to come. | 
+| Summer 2021 UF Meeting (around ISC21)| EU Time zone | UF General meeting   | Details to come. |
+| Fall 2021 UF Meeting (around SC21)  | US Time zone |  UF General meeting   | Details to come. |
 
 ### Past Events:
 
