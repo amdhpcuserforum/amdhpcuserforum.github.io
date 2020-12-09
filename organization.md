@@ -1,7 +1,7 @@
 <img src="images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="700px" />
 
 
-| [HOME](https://amdhpcuserforum.github.io) | [ORGANIZATION](https://amdhpcuserforum.github.io/organization) | [EVENTS](https://amdhpcuserforum.github.io/events) | [CONTACT](https://amdhpcuserforum.github.io/contact) |
+| [HOME](https://amdhpcuserforum.github.io) | [ORGANIZATION](https://amdhpcuserforum.github.io/organization) | [EVENTS](https://amdhpcuserforum.github.io/events) | [JOIN THE FORUM](https://amdhpcuserforum.github.io/contact) |
 
 
 # AMD HPC User Forum Organization
