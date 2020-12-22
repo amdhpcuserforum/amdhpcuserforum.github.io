@@ -21,12 +21,13 @@ body {
   background-color: black;
   font-family: "comfortaa",sans-serif;
   font-size: 1.2em;
-  color: red;
+
 }
 
 nav ul li {
   display: inline-block;
   margin: 30px;
+  color: white;
 }
 
 nav ul li a {
