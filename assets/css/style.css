@@ -5,6 +5,7 @@ html,
 body {
   font-family: 'comfortaa', sans-serif;
   text-align: right;
+  color: red;
 }
 
 * {
