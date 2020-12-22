@@ -20,13 +20,13 @@ body {
   background-color: black;
   font-family: "comfortaa",sans-serif;
   font-size: 1.2em;
-color: white;
+color: red;
 }
 
 nav ul li {
   display: inline-block;
   margin: 30px;
-  color: white;
+  color: green;
 }
 
 nav ul li a {
@@ -34,5 +34,5 @@ nav ul li a {
   text-decoration: none;
 }
 nav ul li a:hover {
-  color: #ababab;
+  color: blue;
 }
