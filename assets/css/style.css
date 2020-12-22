@@ -16,11 +16,12 @@ body {
 
  nav ul {
   position: fixed;
-  text-align: left;
+  text-align: center;
   width: 100%;
-  background-color: #Fff;
+  background-color: black;
   font-family: "comfortaa",sans-serif;
   font-size: 1.2em;
+  color: red;
 }
 
 nav ul li {
