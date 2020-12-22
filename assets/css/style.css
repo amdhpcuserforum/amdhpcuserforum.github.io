@@ -17,20 +17,20 @@ body {
  nav ul {
   text-align: center;
   width: 100%;
-  background-color: white;
+  background-color: black;
   font-family: "comfortaa",sans-serif;
   font-size: 1.2em;
 }
 
 nav ul li {
   margin: 30px;
-  color: orange;
+  color: white;
 }
 
 nav ul li a {
-  color: #000;
+  color: white;
   text-decoration: none;
 }
 nav ul li a:hover {
-  color: grey;
+  color: white;
 }
