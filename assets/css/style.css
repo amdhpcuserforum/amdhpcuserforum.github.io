@@ -15,7 +15,6 @@ body {
 /* Nav bar */
 
  nav ul {
-  position: fixed;
   text-align: center;
   width: 100%;
   background-color: black;
