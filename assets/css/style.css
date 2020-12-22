@@ -23,7 +23,6 @@ body {
 }
 
 nav ul li {
-  display: inline-block;
   margin: 30px;
   color: green;
 }
