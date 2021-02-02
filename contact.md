@@ -3,8 +3,9 @@
 </head>
 <body>
   <p>The AMD HPC User Forum Main Site has moved to:  https://na.eventscloud.com/website/21334/. <br>
-    Please update your bookmarks to the new URL.  You will be redirected to the new site in a few seconds. <br>
-      If you are not redirected, please <a href="https://na.eventscloud.com/website/21334/">click here</a>.</p>
+    Please update your bookmarks to the new URL.  <br>
+    You will be redirected to the new site in a few seconds.If you are not redirected, please <a href="https://na.eventscloud.com/website/21334/">click here</a>. <br>
+  </p>
  
  <img src="images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="700px" />
 
