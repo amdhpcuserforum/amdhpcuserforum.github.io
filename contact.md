@@ -25,4 +25,7 @@ By filling out the application your AMD NDA status will be verified and you will
 ## Contact Us
 
 For more information about the HPC AMD User Forum contact Mary Thomas at: mpthomas@ucsd.edu
+
+###UPDATED REDIRECT
+
 </body>
