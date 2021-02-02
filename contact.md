@@ -1,4 +1,12 @@
-<img src="images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="700px" />
+<head>
+  <meta http-equiv="refresh" content="5; URL=https://na.eventscloud.com/website/21334/" />
+</head>
+<body>
+  <p>The AMD HPC User Forum Main Site has moved to:  https://na.eventscloud.com/website/21334/. <br>
+    Please update your bookmarks to the new URL.  You will be redirected to the new site in a few seconds. <br>
+      If you are not redirected, please <a href="https://na.eventscloud.com/website/21334/">click here</a>.</p>
+ 
+ <img src="images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="700px" />
 
 
 | [HOME](https://amdhpcuserforum.github.io) | [ORGANIZATION](https://amdhpcuserforum.github.io/organization) | [EVENTS](https://amdhpcuserforum.github.io/events) | [JOIN THE FORUM](https://amdhpcuserforum.github.io/contact) |
@@ -16,3 +24,4 @@ By filling out the application your AMD NDA status will be verified and you will
 ## Contact Us
 
 For more information about the HPC AMD User Forum contact Mary Thomas at: mpthomas@ucsd.edu
+</body>
