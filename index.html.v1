@@ -1,1 +1,60 @@
-xxxx
+<head>
+  <meta http-equiv="refresh" content="5; URL=https://na.eventscloud.com/website/21334/" />
+</head>
+<body>
+
+<table border=0 width="700px%" align="center" >  <!----  BEGIN MAIN TABLE ---->
+  <tr align="left" width="700px" bgcolor=black>
+     <td><img src="images/Smaller-AMDHPCUserTraining_header.png" alt="Comet Rack View" width="700px" />
+<!---- BEGIN NAV BAR TABLE ---->
+<table aligh="center" border=0  width="700px%" bgcolor=black>
+  <tr align="center" width="100%" >
+    <td align="center" width="25%" ><a href="https://amdhpcuserforum.github.io" target="_blank" rel="noopener noreferrer"><font color="white">HOME</font></a></td>
+    <td align="center" width="25%" ><a href="https://amdhpcuserforum.github.io/organization.html" target="_blank" rel="noopener noreferrer"><font color="white">ORGANIZATION</font></a></td>
+    <td align="center" width="25%" ><a href="https://amdhpcuserforum.github.io/events/index.html" target="_blank" rel="noopener noreferrer"><font color="white">EVENTS</font></a></td>
+    <td align="center" width="25%" ><a href="https://amdhpcuserforum.github.io/join.html" target="_blank" rel="noopener noreferrer"><font color="white">JOIN THE FORUM</font></a></td>
+  </tr>
+</table> <!---- END NAV BAR TABLE ---->
+
+<tr align="left" width="98%"><td> &nbsp;</td></tr> <!--- spacer row --->
+<tr align="left" width="98%"><td>       
+<center>The AMD HPC User Forum Main Site has moved to:  https://na.eventscloud.com/website/21334/. <br>
+    Please update your bookmarks to the new URL.  <br>
+    You will be redirected to the new site in a few seconds.If you are not redirected, please <a href="https://na.eventscloud.com/website/21334/">click here</a>. <br>
+  </center>
+ </td>
+  </tr>
+       <tr align="left" width="98%"><td> &nbsp;</td></tr> <!--- spacer row --->
+  <tr align="center" width="98%">
+  <td>
+<h2>Welcome to the AMD HPC User Forum!</h2>
+    <p>
+      The <a href="https://amd.com">AMD</a> HPC User community is pleased to announce the creation of a new HPC User Group. The AMD HPC User Forum is a community of customers and users of AMD powered HPC systems with an active NDA. Special events and meetings may be hosted allowing Forum members to extend invitations to their users. This group is led by its members.
+
+  </td>
+  </tr>
+    <tr align="left" width="98%"><td>&nbsp;</td></tr> <!--- spacer row --->
+  <tr align="left" width="98%"><td><b>Learn  more about the Forum:</b>
+    </td></tr>
+  <tr align="left" width="98%">
+  <td>
+<blockquote>
+<table border=0>
+  <tr align="left" valign="top" width="98%">
+    <td align="left" valign="top" width="112px"><a href="https://amdhpcuserforum.github.io/organization.html" target="_blank" rel="noopener noreferrer">Organization:</a></td>
+    <td align="left" valign="top" >The Forum was started in early 2020, and currently has an advisory group and acting board members.</td>
+  </tr>
+  <tr align="left" valign="top">
+    <td align="left" valign="top"><a href="https://amdhpcuserforum.github.io/events/index.html"  target="_blank" rel="noopener noreferrer">Events:</a></td>
+    <td align="left" valign="top" >Information and details about upcoming Forum events can be found on our "Events Page."</td>
+  </tr>
+  <tr align="left" valign="top">
+    <td align="left" valign="top"><a href="https://amdhpcuserforum.github.io/join.html"  target="_blank" rel="noopener noreferrer">Join the Forum:</a></td>
+    <td align="left" valign="top" >The AMD HPC User Forum is open to all AMD customers with an active AMD NDA.</td>
+  </tr>
+</table>
+</blockquote>
+    <b>Contact Us:</b> For more information about the HPC AMD User Forum contact Mary Thomas at: mpthomas AT ucsd.edu
+  </tr>
+</table> <!----  END OF MAIN TABLE. ---->
+</body>
